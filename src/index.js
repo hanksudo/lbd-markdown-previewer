@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import marked from 'marked';
-import './index.css';
 
 
 class App extends React.Component {
