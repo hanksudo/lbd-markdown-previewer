@@ -13,7 +13,7 @@ class App extends React.Component {
   }
 
   handleChange(event) {
-    this.setState({'rawMarkDown': event.target.value});
+    this.setState({rawMarkDown: event.target.value});
   }
 
   render() {
